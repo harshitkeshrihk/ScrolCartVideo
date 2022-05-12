@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052483288319",
+    "project_id": "skrolcartvideo",
+    "storage_bucket": "skrolcartvideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052483288319:android:960b376850262a796ae0ca",
+        "android_client_info": {
+          "package_name": "com.hk.skrolcartvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052483288319-kd7t1shsjjnj2vvdq9g4lfjshjsh984i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVjr72iV7VaRYDlxF4Pv9t9tjJjkQow4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052483288319-kd7t1shsjjnj2vvdq9g4lfjshjsh984i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
